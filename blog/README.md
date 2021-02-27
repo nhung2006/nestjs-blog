@@ -31,6 +31,14 @@
 ```bash
 $ npm install
 ```
+install typeorm
+$ yarn add --save @nestjs/typeorm typeorm mysql2
+
+install validator and transformer
+$  yarn add class-validator class-transformer
+
+install bcrypt
+$ yarn add bcrypt
 
 ## Running the app
 
